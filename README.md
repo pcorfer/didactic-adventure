@@ -1,4 +1,4 @@
 # didactic-adventure
 Thanks to the repository name generator
 
-Database upload for didactic purpose.
+Broken Databases uploaded for didactic purpose.
